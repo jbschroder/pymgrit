@@ -1,3 +1,5 @@
+TEST
+
 |Test Status| |Code Coverage| |Lint Status| |Docs Status| |Publish Status|
 
 .. |Lint Status| image:: https://github.com/pymgrit/pymgrit/workflows/Lint/badge.svg
